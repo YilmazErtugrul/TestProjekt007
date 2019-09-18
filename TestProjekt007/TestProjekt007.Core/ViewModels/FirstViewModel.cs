@@ -5,7 +5,7 @@ namespace TestProjekt007.Core.ViewModels
     public class FirstViewModel
         : MvxViewModel
     {
-        string hello = "Hello MvvmCross";
+        string hello = "Hello Uptodata";
         public string Hello
         {
             get { return hello; }
