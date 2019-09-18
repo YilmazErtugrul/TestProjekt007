@@ -6,6 +6,7 @@ namespace TestProjekt007.Core.ViewModels
         : MvxViewModel
     {
         string hello = "Hello Uptodata professional";
+        string bla = "bla";
         public string Hello
         {
             get { return hello; }
