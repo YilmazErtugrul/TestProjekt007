@@ -5,7 +5,8 @@ namespace TestProjekt007.Core.ViewModels
     public class FirstViewModel
         : MvxViewModel
     {
-        string hello = "Hello Uptodata professional";
+        string hello = "Hello Uptodata professional f2";
+        string h = "h";
         string bla = "bla";
         public string Hello
         {
